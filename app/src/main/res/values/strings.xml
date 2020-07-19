@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Firearm2</string>
+    <string name="shotgun">Shotgun</string>
+    <string name="patrol_rifle">Patrol Rifle</string>
+    <string name="handgun">Handgun</string>
+    <string name="thirty_rounds">30 Rounds</string>
+    <string name="fifty_rounds">50 Rounds</string>
+
+    <!-- Empty  -->
+    <string name="empty"></string>
+
+    <!-- Button Strings  -->
+    <string name="fire">Fire</string>
+    <string name="calculate">Calculate</string>
+    <string name="home">Home</string>
+
+    <!--Calculator Strings  -->
+    <string name="of_hits">Hits</string>
+    <string name="_5_ring">5 Ring</string>
+    <string name="_0">0</string>
+    <string name="_4_ring">4 Ring</string>
+    <string name="_3_ring">3 Ring</string>
+    <string name="final_score">Final Score:</string>
+    <string name="ring_totals">Ring Totals</string>
+    <string name="hit_area">Hit Area</string>
+    <string name="buckshot">Buckshot</string>
+    <string name="buckshot_in_target">Buckshot in Target:</string>
+    <string name="slugs">Slugs</string>
+    <string name="slugs_in_7_ring">Slugs in 7 RIng:</string>
+    <string name="slugs_outside_7_ring">Slugs outside 7 RIng:</string>
+
+
+    <!--Fifty Round Night Course Strings  -->
+    <string name="fifty_night">50 Round Night</string>
+    <string name="fifty_day">50 Round Day</string>
+
+    <!-- Thirty Round Day Course Strings  -->
+    <string name="thirty_day">30 Round Day</string>
+
+
+    <!-- Thirty Round Night Course Strings  -->
+    <string name="thirty_night">30 Round Night</string>
+
+    <!-- Rifle Course Strings  -->
+
+
+    <!-- Shotgun Course Strings  -->
+
+
+</resources>
